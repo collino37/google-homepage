@@ -1,0 +1,60 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.odin {
+	position: relative;
+	top: 210px;
+	left: 38%;
+}
+
+
+.topnav {
+	overflow: hidden;
+	text-align: right;
+	float: right;
+
+}
+
+.topnav a {
+		display: inline-block;
+	padding: 14px 8px;
+	font-family: helvetica, arial;
+	font-size: 14px;
+}
+
+
+.master {
+	position: relative;
+	top: 220px;
+	left: 33%;
+	
+
+}
+
+
+.bolt {
+	position: relative;
+    top: 240px;
+    left: 40%;
+   
+}
+
+
+.vas {
+	font-family: helvetica, arial;
+	font-size: 14px;
+	position: relative;
+	left: 35%;
+	top: 260px;
+}
+
+input {
+	width: 414px;
+	height: 36px;
+    border-radius: 20px;
+}
+
+
